@@ -13,11 +13,9 @@ hi, i'm Christopher THOMIAS, a data science and IA enthusiast. I'm doing some fu
 
  🌱 I’m currently learning :
  
- </a>
- https://fr.coursera.org/specializations/python-3-programming
- </a>
- https://fr.coursera.org/specializations/mathematics-machine-learning
-</a>
+ ### https://fr.coursera.org/specializations/python-3-programming
+ ### https://fr.coursera.org/specializations/mathematics-machine-learning
+
 
 **languages and tools:**  
 
