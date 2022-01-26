@@ -12,8 +12,15 @@ hi, i'm [Christopher THOMIAS], a data science and IA enthusiast. I'm doing some 
 <br />
 
  🌱 I’m currently learning :
- https://www.google.com/aclk?sa=l&ai=DChcSEwiexKzYzM_1AhWY-FEKHYZnBzMYABAAGgJ3cw&sig=AOD64_3ADezTnYZ9EPf8UvHQZ0KqqHTT0Q&q&adurl&ved=2ahUKEwj276XYzM_1AhUOCRoKHWd9BGwQ0Qx6BAgDEAE
+ 
+ https://fr.coursera.org/specializations/python-3-programming?
+ https://fr.coursera.org/specializations/mathematics-machine-learning
 
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <!--
 **thomiaschristopher/ThomiasChristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
