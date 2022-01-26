@@ -11,7 +11,8 @@ hi, i'm [Christopher THOMIAS], a data science and IA enthusiast. I'm doing some 
 
 <br />
 
- 🌱 I’m currently learning https://www.coursera.org/programs/capgemini-learning-program-71mtd?authProvider=capgemini&currentTab=MY_COURSES&productId=Tw7BjehDEeirrRITnOc3tA&productType=s12n&showMiniModal=true
+ 🌱 I’m currently learning :
+ https://www.google.com/aclk?sa=l&ai=DChcSEwiexKzYzM_1AhWY-FEKHYZnBzMYABAAGgJ3cw&sig=AOD64_3ADezTnYZ9EPf8UvHQZ0KqqHTT0Q&q&adurl&ved=2ahUKEwj276XYzM_1AhUOCRoKHWd9BGwQ0Qx6BAgDEAE
 
 <!--
 **thomiaschristopher/ThomiasChristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
