@@ -7,7 +7,7 @@
 <br />
 <br />
 
-hi, i'm [Christopher THOMIAS], a data science and IA enthusiast. I'm doing some fun project on python, currently I'm learning a lot from the open-source community (Kaggle is just insane <3) and coursera. 
+hi, i'm Christopher THOMIAS, a data science and IA enthusiast. I'm doing some fun project on python, currently I'm learning a lot from the open-source community (Kaggle is just insane <3) and coursera. 
 
 <br />
 
