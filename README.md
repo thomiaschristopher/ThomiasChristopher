@@ -13,8 +13,7 @@ hi, i'm Christopher THOMIAS, a Data science and IA enthusiast. I'm doing some fu
 
  🌱 I’m currently learning :
  
- ### https://www.coursera.org/learn/python-data-analysis/home/welcome
- ### https://fr.coursera.org/specializations/mathematics-machine-learning
+ ### [Deep Learning Specializations](https://www.coursera.org/specializations/deep-learning)
 
 **languages and tools:**  
 
