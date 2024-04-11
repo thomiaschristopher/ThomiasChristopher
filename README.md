@@ -1,7 +1,7 @@
 ### Hi there 👋,
 
 <a href="https://www.linkedin.com/in/christopher-thomias/">
-  <img align="left" alt="Christopher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Christopher's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.google.com/search?q=linekdin+image&rlz=1C1GCCA_en&oq=linekdin+image&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDIwNDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on#vhid=GotDugixBUlVyM&vssid=l)" />
 </a>
 
 <br />
