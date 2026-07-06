@@ -12,7 +12,7 @@
 
 #### 🚀 About Me
 
-I am a **Data Science** working in the **Airline industry** ✈️. I build tailored AI architectures, modern data pipelines, and Machine Learning solutions to solve complex business and operational challenges.
+I am a **Data Scientist** working in the **Airline industry** ✈️. I build tailored AI architectures, modern data pipelines, and Machine Learning solutions to solve complex business and operational challenges.
 
 * 🎯 **Looking for:** New projects and collaborations to further elevate my skills as an **AI Engineer** (LLM orchestration, agentic workflows, and production-ready GenAI).
 * 🌱 **Focus:** Production-ready GenAI, Advanced RAG, and Agentic workflows.
