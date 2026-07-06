@@ -1,24 +1,42 @@
-### Hi there 👋,
+### Hi there, I'm Christopher THOMIAS 👋
 
-<a href="https://www.linkedin.com/in/christopher-thomias/">
-  <img align="left" alt="Christopher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/linnovate/root-me/master/src/images/icons/linkedin.ico" />
-</a>
+📫 How to reach me:
 
-<br />
-<br />
+<p align="left">
+  <a href="https://www.linkedin.com/in/christopher-thomias/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-hi, i'm Christopher THOMIAS, a Data science and IA enthusiast. I'm doing some fun projects on python, currently I'm learning a lot from the open-source community (Kaggle is just insane!) and coursera. 
+---
 
-<br />
+#### 🚀 About Me
 
- 🌱 I’m currently learning :
- 
- ### [Deep Learning Specializations](https://www.coursera.org/specializations/deep-learning)
+I am a **Data Science** working in the **Airline industry** ✈️. I build tailored AI architectures, modern data pipelines, and Machine Learning solutions to solve complex business and operational challenges.
 
-**languages and tools:**  
+* 🎯 **Looking for:** New projects and collaborations to further elevate my skills as an **AI Engineer** (LLM orchestration, agentic workflows, and production-ready GenAI).
+* 🌱 **Focus:** Production-ready GenAI, Advanced RAG, and Agentic workflows.
+* 🎓 ** Last Certifications:** [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+---
+
+#### 🧰 Tech Stack & Tools
+
+**Generative AI & Agents**
+![Model Context Protocol](https://img.shields.io/badge/MCP-Anthropic-orange?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-F9D71C?style=flat-square)
+
+**Machine Learning & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD7F32?style=flat-square&logo=polars&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud Environments**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
 <!--
 **thomiaschristopher/ThomiasChristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
